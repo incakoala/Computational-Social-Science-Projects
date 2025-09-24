@@ -16,3 +16,10 @@ vim commands.txt
 # git commands:
 
 
+git status
+
+git add commands.txt
+
+git commit -m "add commands file"
+
+git push
